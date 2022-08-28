@@ -34,7 +34,7 @@
 
 - `cd Public_check`
 
-- `python cookie.py`
+- `python public-clone`
 
 ### IT’S RDX TOUFIQ BRAND      
 ## CONTACT RDX TOUFIQ   
